@@ -1,0 +1,32 @@
+﻿using System;
+
+namespace TextAdventureAl
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to The Bar!");
+            Console.WriteLine("Would you like a table?");
+
+            string response = Console.ReadLine();
+
+            if (response == "Yes")
+            {
+                Console.WriteLine("Would you like a drink?");
+
+                if (response == "Yes")
+                {
+                    //serve drink
+                }
+
+                Console.WriteLine("Would you like another drink?");
+
+            }
+            else
+            {
+                Console.WriteLine("Ok, here's your check!");
+            }
+        }
+    }
+}
