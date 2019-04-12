@@ -1,0 +1,11 @@
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/bin/Debug/netcoreapp2.1/AlTextAdventure.deps.json
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/bin/Debug/netcoreapp2.1/AlTextAdventure.runtimeconfig.json
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/bin/Debug/netcoreapp2.1/AlTextAdventure.runtimeconfig.dev.json
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/bin/Debug/netcoreapp2.1/AlTextAdventure.dll
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/bin/Debug/netcoreapp2.1/AlTextAdventure.pdb
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/obj/Debug/netcoreapp2.1/AlTextAdventure.csprojAssemblyReference.cache
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/obj/Debug/netcoreapp2.1/AlTextAdventure.csproj.CoreCompileInputs.cache
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/obj/Debug/netcoreapp2.1/AlTextAdventure.AssemblyInfoInputs.cache
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/obj/Debug/netcoreapp2.1/AlTextAdventure.AssemblyInfo.cs
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/obj/Debug/netcoreapp2.1/AlTextAdventure.dll
+/Users/alvaro/Documents/True Coders/TextAdventure/TextAdventure-Al/AlTextAdventure/obj/Debug/netcoreapp2.1/AlTextAdventure.pdb
